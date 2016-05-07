@@ -1,7 +1,7 @@
 name: Quiasmo
 favicon: null
-layout_spectrum: 0.86092
-typography_spectrum: 0.06757354643195868
+layout_spectrum: 0.8537
+typography_spectrum: 0.10418
 title: 'Ni son todos los que están, ni están todos los que son'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.375
-  lightness: 0.9101626011542976
-  saturation: 0.23361222725361586
-  rhythmicContrast: 0.2758504021912813
+    - '#e3f0fa'
+    - '#513e37'
+    - '#9aa9b2'
+    - '#008abb'
+    - '#1a0605'
+  brandStrength: 0.625
+  lightness: 0.9375
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []

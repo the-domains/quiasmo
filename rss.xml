@@ -4,8 +4,15 @@
         <description><![CDATA[KIASMO       Ni son todos los que están, ni están todos los que son ]]></description>
         <link>http://kiasmo.black/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 22:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 22:17:43 GMT</lastBuildDate>
         <atom:link href="http://kiasmo.black/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/959e7563-c191-4604-bf85-c07318781b75.jpg">]]></description>
+            <link>http://kiasmo.black/5dfb8f17-e06e-4ba9-8a66-4fb09b2d7875/index.html</link>
+            <guid isPermaLink="false">5dfb8f17-e06e-4ba9-8a66-4fb09b2d7875</guid>
+            <pubDate>Fri, 15 Jul 2016 22:17:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc6b4288-c755-4a72-ab76-f85d0aeb5ca8.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://kiasmo.black/lisbon/index.html</link>
             <guid isPermaLink="false">daf59cbc-dd88-43e9-8cad-67361991e63a</guid>
             <pubDate>Fri, 15 Jul 2016 22:08:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d9ed0e2-5f48-4db2-9c00-1ddc29f68615.jpg">]]></description>
-            <link>http://kiasmo.black/c0d42505-490b-4dc1-bc9e-16b488ef258f/index.html</link>
-            <guid isPermaLink="false">c0d42505-490b-4dc1-bc9e-16b488ef258f</guid>
-            <pubDate>Fri, 15 Jul 2016 22:08:17 GMT</pubDate>
         </item>
     </channel>
 </rss>

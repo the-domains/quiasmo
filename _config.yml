@@ -1,7 +1,7 @@
 name: Kiasmo
 favicon: null
-layout_spectrum: 0.8537
-typography_spectrum: 0.71706
+layout_spectrum: 0.09151
+typography_spectrum: 0.68214
 title: 'KIASMO       Ni son todos los que están, ni están todos los que son '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e3f0fa'
-    - '#513e37'
-    - '#9aa9b2'
-    - '#008abb'
-    - '#1a0605'
-  brandStrength: 0.625
-  lightness: 0.625
-  saturation: 0.125
+    - '#2b2320'
+    - '#b1b6c2'
+    - '#030206'
+    - '#4d4c51'
+    - '#837b88'
+  brandStrength: 0.0625
+  lightness: 0.4375
+  saturation: 0.3125
   rhythmicContrast: 0.5
 purpose: []

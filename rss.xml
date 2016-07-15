@@ -4,8 +4,15 @@
         <description><![CDATA[KIASMO       Ni son todos los que están, ni están todos los que son ]]></description>
         <link>http://kiasmo.black/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 22:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 22:43:13 GMT</lastBuildDate>
         <atom:link href="http://kiasmo.black/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d9ed0e2-5f48-4db2-9c00-1ddc29f68615.jpg">]]></description>
+            <link>http://kiasmo.black/c0d42505-490b-4dc1-bc9e-16b488ef258f/index.html</link>
+            <guid isPermaLink="false">c0d42505-490b-4dc1-bc9e-16b488ef258f</guid>
+            <pubDate>Fri, 15 Jul 2016 22:43:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e116528-9ba6-43d2-9063-7da168fc09e4.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://kiasmo.black/7447f324-5a73-4847-abf4-99a0d90841ee/index.html</link>
             <guid isPermaLink="false">7447f324-5a73-4847-abf4-99a0d90841ee</guid>
             <pubDate>Fri, 15 Jul 2016 22:16:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7f63730-db3d-4e35-8932-ab6661bf81bd.jpg">]]></description>
-            <link>http://kiasmo.black/ccf772ea-2579-4d6b-aded-faf3fecbfbd0/index.html</link>
-            <guid isPermaLink="false">ccf772ea-2579-4d6b-aded-faf3fecbfbd0</guid>
-            <pubDate>Fri, 15 Jul 2016 22:15:16 GMT</pubDate>
         </item>
     </channel>
 </rss>

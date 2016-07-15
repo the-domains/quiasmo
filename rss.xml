@@ -4,7 +4,7 @@
         <description><![CDATA[KIASMO       Ni son todos los que están, ni están todos los que son ]]></description>
         <link>http://kiasmo.black/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 22:02:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 22:02:39 GMT</lastBuildDate>
         <atom:link href="http://kiasmo.black/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://kiasmo.black/23c54812-2775-456e-91a1-7d3e7dfb654f/index.html</link>
             <guid isPermaLink="false">23c54812-2775-456e-91a1-7d3e7dfb654f</guid>
             <pubDate>Fri, 15 Jul 2016 22:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be7b69b1-ef9c-4832-bac9-707771770e1a.jpg">]]></description>
+            <link>http://kiasmo.black/749d784c-f064-4e16-946b-959663aba25e/index.html</link>
+            <guid isPermaLink="false">749d784c-f064-4e16-946b-959663aba25e</guid>
+            <pubDate>Fri, 15 Jul 2016 22:02:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>

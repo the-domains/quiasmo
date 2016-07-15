@@ -4,8 +4,15 @@
         <description><![CDATA[KIASMO       Ni son todos los que están, ni están todos los que son ]]></description>
         <link>http://kiasmo.black/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 22:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 22:15:44 GMT</lastBuildDate>
         <atom:link href="http://kiasmo.black/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7f63730-db3d-4e35-8932-ab6661bf81bd.jpg">]]></description>
+            <link>http://kiasmo.black/ccf772ea-2579-4d6b-aded-faf3fecbfbd0/index.html</link>
+            <guid isPermaLink="false">ccf772ea-2579-4d6b-aded-faf3fecbfbd0</guid>
+            <pubDate>Fri, 15 Jul 2016 22:15:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e71018a-5f4e-4f00-9f37-692533bb2da9.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://kiasmo.black/749d784c-f064-4e16-946b-959663aba25e/index.html</link>
             <guid isPermaLink="false">749d784c-f064-4e16-946b-959663aba25e</guid>
             <pubDate>Fri, 15 Jul 2016 22:07:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cabo da Roca]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04327939-089a-4b0b-9ff1-94d6938e6899.jpg">]]></description>
-            <link>http://kiasmo.black/23c54812-2775-456e-91a1-7d3e7dfb654f/index.html</link>
-            <guid isPermaLink="false">23c54812-2775-456e-91a1-7d3e7dfb654f</guid>
-            <pubDate>Fri, 15 Jul 2016 22:07:02 GMT</pubDate>
         </item>
     </channel>
 </rss>

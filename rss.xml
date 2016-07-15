@@ -4,8 +4,15 @@
         <description><![CDATA[KIASMO       Ni son todos los que están, ni están todos los que son ]]></description>
         <link>http://kiasmo.black/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 22:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 22:10:14 GMT</lastBuildDate>
         <atom:link href="http://kiasmo.black/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd70b788-e241-4cde-a83d-7eee325b87a8.jpg">]]></description>
+            <link>http://kiasmo.black/05c05031-d732-478b-81fe-92ea5348fc84/index.html</link>
+            <guid isPermaLink="false">05c05031-d732-478b-81fe-92ea5348fc84</guid>
+            <pubDate>Fri, 15 Jul 2016 22:09:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lisbon]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8417680e-3a30-4e23-b053-fb43e8c46cce.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://kiasmo.black/quinta-da-regaleira/index.html</link>
             <guid isPermaLink="false">b1fd65ca-d966-48d6-a82f-98d9b4aa3e2a</guid>
             <pubDate>Fri, 15 Jul 2016 21:59:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd1cf234-b6a8-4784-a464-d0995311e0ff.jpg">]]></description>
-            <link>http://kiasmo.black/a38c096b-f385-4184-ae76-6fef657c5fc0/index.html</link>
-            <guid isPermaLink="false">a38c096b-f385-4184-ae76-6fef657c5fc0</guid>
-            <pubDate>Fri, 15 Jul 2016 21:58:53 GMT</pubDate>
         </item>
     </channel>
 </rss>

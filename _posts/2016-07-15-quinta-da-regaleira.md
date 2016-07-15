@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-15T21:52:38.341Z'
-dateModified: '2016-07-15T21:52:18.397Z'
+datePublished: '2016-07-15T21:59:06.750Z'
+dateModified: '2016-07-15T21:52:48.323Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-15-quinta-da-regaleira.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-15-quinta-da-regaleira.md
 url: quinta-da-regaleira/index.html
 _type: Article
 

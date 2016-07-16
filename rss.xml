@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[KIASMO      ]]></title>
-        <description><![CDATA[KIASMO      ]]></description>
+        <title><![CDATA[   ]]></title>
+        <description><![CDATA[   ]]></description>
         <link>http://kiasmo.black/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 22:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2016 19:06:42 GMT</lastBuildDate>
         <atom:link href="http://kiasmo.black/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p> Ni son todos los que están, ni están todos los que son </p>]]></description>
-            <link>http://kiasmo.black/ni-son-todos-los-que-estan-ni-estan-todos-los-que-son/index.html</link>
-            <guid isPermaLink="false">6c380f97-abeb-4a6e-837f-ff76b5946ff8</guid>
-            <pubDate>Fri, 15 Jul 2016 22:48:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd70b788-e241-4cde-a83d-7eee325b87a8.jpg">]]></description>

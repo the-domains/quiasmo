@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: ' Ni son todos los que están, ni están todos los que son '
-datePublished: '2016-07-16T19:06:38.526Z'
-dateModified: '2016-07-16T13:10:53.551Z'
+datePublished: '2016-07-17T18:47:51.774Z'
+dateModified: '2016-07-17T18:47:46.386Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-15-ni-son-todos-los-que-estan-ni-estan-todos-los-que-son.md

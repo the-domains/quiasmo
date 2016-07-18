@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[   ]]></title>
-        <description><![CDATA[   ]]></description>
+        <title><![CDATA[   KIASMO]]></title>
+        <description><![CDATA[   KIASMO]]></description>
         <link>http://kiasmo.black/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 18:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2016 13:29:02 GMT</lastBuildDate>
         <atom:link href="http://kiasmo.black/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Manta Rota]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c02e0efe-05ec-4057-a669-5fe864cfa88f.jpg">]]></description>
+            <link>http://kiasmo.black/manta-rota/index.html</link>
+            <guid isPermaLink="false">cd260fb8-79cf-4a12-a5a9-7ff337b9c234</guid>
+            <pubDate>Mon, 18 Jul 2016 13:28:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lisbon]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01ebeb34-f9e7-4fc6-84ba-2e50a369c9b5.jpg">]]></description>
@@ -32,13 +39,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ba5b575-8bd7-42af-a695-07d0d7d6ea30.jpg">]]></description>
             <link>http://kiasmo.black/portugal/index.html</link>
             <guid isPermaLink="false">3f98ed7b-10c7-4d6c-8f0a-a6cb5466323d</guid>
-            <pubDate>Sun, 17 Jul 2016 18:42:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Manta Rota]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c02e0efe-05ec-4057-a669-5fe864cfa88f.jpg">]]></description>
-            <link>http://kiasmo.black/manta-rota/index.html</link>
-            <guid isPermaLink="false">cd260fb8-79cf-4a12-a5a9-7ff337b9c234</guid>
             <pubDate>Sun, 17 Jul 2016 18:42:56 GMT</pubDate>
         </item>
     </channel>

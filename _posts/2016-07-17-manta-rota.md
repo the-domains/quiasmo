@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-18T13:28:59.686Z'
-dateModified: '2016-07-18T13:27:35.090Z'
+datePublished: '2016-07-18T13:29:29.795Z'
+dateModified: '2016-07-18T13:29:09.146Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-17-manta-rota.md

@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-25T19:20:58.308Z'
+datePublished: '2016-07-25T19:26:10.853Z'
 sourcePath: _posts/2016-07-17-cabo-da-roca.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-25T19:20:57.698Z'
+dateModified: '2016-07-25T19:26:10.230Z'
 title: ''
 publisher: {}
 description: ''

@@ -4,18 +4,11 @@
         <description><![CDATA[   KIASMO]]></description>
         <link>http://kiasmo.black/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 19:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 19:28:14 GMT</lastBuildDate>
         <atom:link href="http://kiasmo.black/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Algarve]]></title>
-            <description><![CDATA[<article><h1>Algarve</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2c114bc355341226005ba7b9c230d5c6/croprotate.jpg?cropheight=3038&cropwidth=5647&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc02e0efe-05ec-4057-a669-5fe864cfa88f.jpg&x=0&y=0"></article>]]></description>
-            <link>http://kiasmo.black/manta-rota/index.html</link>
-            <guid isPermaLink="false">cd260fb8-79cf-4a12-a5a9-7ff337b9c234</guid>
-            <pubDate>Mon, 25 Jul 2016 19:29:01 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Quinta da Regaleira]]></title>
-            <description><![CDATA[<article><h1>Quinta da Regaleira</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49b81de458e1b6c107349f07c2b52b14cca6c39a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Quinta da Regaleira</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e3fafe8938480a933b9638cb17b53ae5/croprotate.jpg?cropheight=5600&cropwidth=3478&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8803f957-8299-48a8-90e1-addf360c1ea3.jpg&x=0&y=0"></article>]]></description>
             <link>http://kiasmo.black/quinta-da-regaleira/index.html</link>
             <guid isPermaLink="false">0feaf9fc-6acc-4089-8d2d-58e009827ccc</guid>
             <pubDate>Mon, 25 Jul 2016 19:28:11 GMT</pubDate>
@@ -40,6 +33,13 @@
             <link>http://kiasmo.black/lisbon/index.html</link>
             <guid isPermaLink="false">02e89200-68ac-4c71-8643-2775b817a023</guid>
             <pubDate>Mon, 25 Jul 2016 19:22:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manta Rota]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c02e0efe-05ec-4057-a669-5fe864cfa88f.jpg">]]></description>
+            <link>http://kiasmo.black/manta-rota/index.html</link>
+            <guid isPermaLink="false">cd260fb8-79cf-4a12-a5a9-7ff337b9c234</guid>
+            <pubDate>Mon, 18 Jul 2016 13:29:29 GMT</pubDate>
         </item>
     </channel>
 </rss>

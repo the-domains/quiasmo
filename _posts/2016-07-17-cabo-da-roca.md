@@ -1,25 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: ''
-datePublished: '2016-07-17T18:42:56.551Z'
-dateModified: '2016-07-17T18:34:55.176Z'
-title: ''
-author: []
-authors: []
-publisher: null
-starred: false
+datePublished: '2016-07-25T19:20:58.308Z'
 sourcePath: _posts/2016-07-17-cabo-da-roca.md
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-07-25T19:20:57.698Z'
+title: ''
+publisher: {}
+description: ''
+inLanguage: null
+inNav: false
+starred: false
 url: cabo-da-roca/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c826cf2a-fb68-42d7-9c49-f512e5a779fe.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1a5528d-4e36-4d47-89f3-fa17d36e4540.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abb2f72e-8f30-45c7-803e-46aa0fe18e6c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e22464f0-8254-4899-96a4-ca1292a44052.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98c2d014-9f08-4302-8d45-84be6919e205.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/12181d89-24d8-4793-8b14-b392331903fd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47f1c496-1894-4993-b9ac-27e88b3e19c2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f91b4b0cdc16254ce3c5aa87fd324a1c951a7a9c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d9bcd94e60c9165437a4f3e1538244015f2817e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/580824b15b19a5e81adf1b59b2a52ede2c4796cd.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6c642c6e38bbac5ace17aed170df81768b6b06f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b33a40d6f291496af2bf93b885e03a8ee61ffc90.jpg)

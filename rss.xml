@@ -4,8 +4,15 @@
         <description><![CDATA[   KIASMO]]></description>
         <link>http://kiasmo.black/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 13:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 19:21:00 GMT</lastBuildDate>
         <atom:link href="http://kiasmo.black/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cabo da Roca]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/47f1c496-1894-4993-b9ac-27e88b3e19c2.jpg">]]></description>
+            <link>http://kiasmo.black/cabo-da-roca/index.html</link>
+            <guid isPermaLink="false">70d24175-3b3b-4b44-bb46-01e9581118dc</guid>
+            <pubDate>Mon, 25 Jul 2016 19:20:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lisbon]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01ebeb34-f9e7-4fc6-84ba-2e50a369c9b5.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>http://kiasmo.black/quinta-da-regaleira/index.html</link>
             <guid isPermaLink="false">0feaf9fc-6acc-4089-8d2d-58e009827ccc</guid>
             <pubDate>Sun, 17 Jul 2016 18:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cabo da Roca]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c826cf2a-fb68-42d7-9c49-f512e5a779fe.jpg">]]></description>
-            <link>http://kiasmo.black/cabo-da-roca/index.html</link>
-            <guid isPermaLink="false">70d24175-3b3b-4b44-bb46-01e9581118dc</guid>
-            <pubDate>Sun, 17 Jul 2016 18:42:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

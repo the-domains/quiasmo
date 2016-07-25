@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-25T19:26:10.853Z'
+datePublished: '2016-07-25T19:26:51.722Z'
 sourcePath: _posts/2016-07-17-cabo-da-roca.md
 inFeed: true
 authors: []
@@ -7,8 +7,8 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-25T19:26:10.230Z'
-title: ''
+dateModified: '2016-07-25T19:26:51.003Z'
+title: Cabo da Roca
 publisher: {}
 description: ''
 inLanguage: null
@@ -18,6 +18,7 @@ url: cabo-da-roca/index.html
 _type: Article
 
 ---
+## Cabo da Roca
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47f1c496-1894-4993-b9ac-27e88b3e19c2.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f91b4b0cdc16254ce3c5aa87fd324a1c951a7a9c.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d9bcd94e60c9165437a4f3e1538244015f2817e.jpg)

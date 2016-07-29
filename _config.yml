@@ -1,7 +1,7 @@
 name: Kiasmo
 favicon: null
-layout_spectrum: 0.09151
-typography_spectrum: 0.68214
+layout_spectrum: 0.3537632650695741
+typography_spectrum: 0.36210495536215603
 title: '   KIASMO'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2b2320'
-    - '#b1b6c2'
-    - '#030206'
-    - '#4d4c51'
-    - '#837b88'
-  brandStrength: 0
-  lightness: 0.6875
-  saturation: 0.6875
-  rhythmicContrast: 0.5
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.5992130904924124
+  lightness: 0.9036294003017247
+  saturation: 0.532395341899246
+  rhythmicContrast: 0.3198080128058791
 purpose: []

@@ -1,20 +1,4 @@
-name: Kiasmo
-favicon: null
-layout_spectrum: 0.3537632650695741
 typography_spectrum: 0.36210495536215603
-title: '   KIASMO'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FFFFFF'
@@ -26,4 +10,23 @@ color:
   lightness: 0.9036294003017247
   saturation: 0.532395341899246
   rhythmicContrast: 0.3198080128058791
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.3537632650695741
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Kiasmo
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: '   KIASMO'
+description: >-
+  1. m. Ret. Disposición en órdenes inversos de los miembros de dos secuencias
+  consecutivas
 purpose: []

@@ -31,6 +31,9 @@ navigation:
   - name: Algarve
     id: cd260fb8-79cf-4a12-a5a9-7ff337b9c234
     type: content
+  - name: Lisbon
+    id: 02e89200-68ac-4c71-8643-2775b817a023
+    type: content
 favicon: null
 title: '   QUIASMO'
 description: >-

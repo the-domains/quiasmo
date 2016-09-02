@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-25T19:41:07.134Z'
+datePublished: '2016-08-31T11:42:45.475Z'
 sourcePath: _posts/2016-07-17-manta-rota.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-25T19:41:06.313Z'
+dateModified: '2016-08-31T11:42:44.767Z'
 title: Algarve
 publisher: {}
 description: ''

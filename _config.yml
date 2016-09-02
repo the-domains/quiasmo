@@ -28,6 +28,9 @@ navigation:
   - name: Cara A
     url: 'http//:allegory.blue'
     type: external
+  - name: Algarve
+    id: cd260fb8-79cf-4a12-a5a9-7ff337b9c234
+    type: content
 favicon: null
 title: '   QUIASMO'
 description: >-

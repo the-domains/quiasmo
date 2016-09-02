@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[   KIASMO]]></title>
-        <description><![CDATA[   KIASMO]]></description>
+        <title><![CDATA[   QUIASMO]]></title>
+        <description><![CDATA[   QUIASMO]]></description>
         <link>http://kiasmo.black/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 19:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 11:44:13 GMT</lastBuildDate>
         <atom:link href="http://kiasmo.black/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Quinta da Regaleira]]></title>
-            <description><![CDATA[<article><h1>Quinta da Regaleira</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b5a12e6-7ff7-4a95-a36b-a081d89ef7b5.jpg"></article>]]></description>
-            <link>http://kiasmo.black/quinta-da-regaleira/index.html</link>
-            <guid isPermaLink="false">0feaf9fc-6acc-4089-8d2d-58e009827ccc</guid>
-            <pubDate>Mon, 25 Jul 2016 19:43:55 GMT</pubDate>
+            <title><![CDATA[Lisbon]]></title>
+            <description><![CDATA[<article><h1>Lisbon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7fcb4cfa0bac8917ebdcbe57eae96dafc18d665.jpg"></article>]]></description>
+            <link>http://kiasmo.black/lisbon/index.html</link>
+            <guid isPermaLink="false">02e89200-68ac-4c71-8643-2775b817a023</guid>
+            <pubDate>Wed, 31 Aug 2016 11:44:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Algarve]]></title>
             <description><![CDATA[<article><h1>Algarve</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95a1a96a-fed0-4cdc-ba16-adbbb0b6227c.jpg"></article>]]></description>
             <link>http://kiasmo.black/manta-rota/index.html</link>
             <guid isPermaLink="false">cd260fb8-79cf-4a12-a5a9-7ff337b9c234</guid>
-            <pubDate>Mon, 25 Jul 2016 19:41:07 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 11:42:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quinta da Regaleira]]></title>
+            <description><![CDATA[<article><h1>Quinta da Regaleira</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b5a12e6-7ff7-4a95-a36b-a081d89ef7b5.jpg"></article>]]></description>
+            <link>http://kiasmo.black/quinta-da-regaleira/index.html</link>
+            <guid isPermaLink="false">0feaf9fc-6acc-4089-8d2d-58e009827ccc</guid>
+            <pubDate>Mon, 25 Jul 2016 19:43:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cabo da Roca]]></title>
@@ -33,13 +40,6 @@
             <link>http://kiasmo.black/portugal/index.html</link>
             <guid isPermaLink="false">3f98ed7b-10c7-4d6c-8f0a-a6cb5466323d</guid>
             <pubDate>Mon, 25 Jul 2016 19:25:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lisbon]]></title>
-            <description><![CDATA[<article><h1>Lisbon</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7fcb4cfa0bac8917ebdcbe57eae96dafc18d665.jpg"></article>]]></description>
-            <link>http://kiasmo.black/lisbon/index.html</link>
-            <guid isPermaLink="false">02e89200-68ac-4c71-8643-2775b817a023</guid>
-            <pubDate>Mon, 25 Jul 2016 19:22:58 GMT</pubDate>
         </item>
     </channel>
 </rss>

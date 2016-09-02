@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Cara B
-    url: 'http/:allegory.blue'
-    type: external
 favicon: null
 title: '   QUIASMO'
 description: >-

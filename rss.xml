@@ -4,8 +4,15 @@
         <description><![CDATA[   QUIASMO]]></description>
         <link>http://kiasmo.black/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 17:52:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 17:52:25 GMT</lastBuildDate>
         <atom:link href="http://kiasmo.black/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Quinta da Regaleira]]></title>
+            <description><![CDATA[<article><h1>Quinta da Regaleira</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b5a12e6-7ff7-4a95-a36b-a081d89ef7b5.jpg"></article>]]></description>
+            <link>http://kiasmo.black/quinta-da-regaleira/index.html</link>
+            <guid isPermaLink="false">0feaf9fc-6acc-4089-8d2d-58e009827ccc</guid>
+            <pubDate>Wed, 31 Aug 2016 17:52:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Portugal]]></title>
             <description><![CDATA[<article><h1>Portugal</h1><p> -On the road</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/681fcefa36afc4fcd6f8e68efa6998368590de8a.jpg"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://kiasmo.black/manta-rota/index.html</link>
             <guid isPermaLink="false">cd260fb8-79cf-4a12-a5a9-7ff337b9c234</guid>
             <pubDate>Wed, 31 Aug 2016 11:42:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quinta da Regaleira]]></title>
-            <description><![CDATA[<article><h1>Quinta da Regaleira</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b5a12e6-7ff7-4a95-a36b-a081d89ef7b5.jpg"></article>]]></description>
-            <link>http://kiasmo.black/quinta-da-regaleira/index.html</link>
-            <guid isPermaLink="false">0feaf9fc-6acc-4089-8d2d-58e009827ccc</guid>
-            <pubDate>Mon, 25 Jul 2016 19:43:55 GMT</pubDate>
         </item>
     </channel>
 </rss>

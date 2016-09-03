@@ -28,6 +28,9 @@ navigation:
   - name: Cara A
     url: 'http//:allegory.blue'
     type: external
+  - name: Portugal
+    id: 3f98ed7b-10c7-4d6c-8f0a-a6cb5466323d
+    type: content
   - name: Algarve
     id: cd260fb8-79cf-4a12-a5a9-7ff337b9c234
     type: content
@@ -36,9 +39,6 @@ navigation:
     type: content
   - name: Cabo da Roca
     id: 70d24175-3b3b-4b44-bb46-01e9581118dc
-    type: content
-  - name: Portugal
-    id: 3f98ed7b-10c7-4d6c-8f0a-a6cb5466323d
     type: content
   - name: Quinta da Regaleira
     id: 0feaf9fc-6acc-4089-8d2d-58e009827ccc

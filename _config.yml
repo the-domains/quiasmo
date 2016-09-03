@@ -34,6 +34,12 @@ navigation:
   - name: Lisbon
     id: 02e89200-68ac-4c71-8643-2775b817a023
     type: content
+  - name: Cabo da Roca
+    id: 70d24175-3b3b-4b44-bb46-01e9581118dc
+    type: content
+  - name: Quinta da Regaleira
+    id: 0feaf9fc-6acc-4089-8d2d-58e009827ccc
+    type: content
 favicon: null
 title: '   QUIASMO'
 description: >-

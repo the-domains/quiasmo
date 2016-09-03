@@ -40,6 +40,9 @@ navigation:
   - name: Quinta da Regaleira
     id: 0feaf9fc-6acc-4089-8d2d-58e009827ccc
     type: content
+  - name: Portugal
+    id: 3f98ed7b-10c7-4d6c-8f0a-a6cb5466323d
+    type: content
 favicon: null
 title: '   QUIASMO'
 description: >-

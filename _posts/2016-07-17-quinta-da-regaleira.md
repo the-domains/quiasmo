@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-25T19:43:55.130Z'
+datePublished: '2016-08-31T17:52:06.425Z'
 sourcePath: _posts/2016-07-17-quinta-da-regaleira.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-07-25T19:43:52.835Z'
+dateModified: '2016-08-31T17:52:03.684Z'
 title: Quinta da Regaleira
 publisher: {}
 description: ''
